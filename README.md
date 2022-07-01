@@ -1,2 +1,2 @@
 # codingPractice
-Collection of coding excercises for my own practice
+My solutions to some coding excercises (mostly from LeetCode).
