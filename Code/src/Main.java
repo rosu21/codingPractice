@@ -9,13 +9,17 @@ public class Main {
         String s2 = "axc";
         String t2 = "ahbgdc";
 
+        String s3 = "acb";
+        String t3 = "ahbgdc";
+
+
         SolutionIsSubsequence solutionIsSubsequence = new SolutionIsSubsequence();
 
 
         //isIsomorphic
         //System.out.print(solution.isIsomorphic(s,t));
 
-        solutionIsSubsequence.isSubsequence(s2, t2);
+        solutionIsSubsequence.isSubsequence(s3, t3);
 
 
 
